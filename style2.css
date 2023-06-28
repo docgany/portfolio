@@ -5,6 +5,7 @@ body {
 
 .container > div {
   margin: 50px auto;
+  border: 3px solid blue;
 }
 
 hr {
